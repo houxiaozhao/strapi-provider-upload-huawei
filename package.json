@@ -1,13 +1,13 @@
 {
   "name": "strapi-provider-upload-huawei",
   "version": "1.0.0",
-  "description": "",
+  "description": "strapi使用华为云obs存储文件",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "esdk-obs-nodejs": "^3.21.6",
     "mime-types": "^2.1.35"
